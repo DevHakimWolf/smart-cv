@@ -15,7 +15,7 @@
 - متصفح ويب حديث (مثل Google Chrome أو Firefox)
 - محرر نصوص (مثل Visual Studio Code)
 
-## كيفية التشغيل
+## كيفية التنزيل
 1. قم بتنزيل المشروع أو استنساخه:
    ```bash 
    git clone https://github.com/DevHakimWolf/smart-cv/edit/main/mywebcv-master
