@@ -17,5 +17,5 @@
 
 ## كيفية التشغيل
 1. قم بتنزيل المشروع أو استنساخه:
-   ```bash
+   ```bash 
    git clone https://github.com/DevHakimWolf/smart-cv/edit/main/mywebcv-master
