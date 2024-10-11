@@ -18,4 +18,4 @@
 ## كيفية التشغيل
 1. قم بتنزيل المشروع أو استنساخه:
    ```bash
-   git clone https://github.com/username/your-repo.git](https://github.com/DevHakimWolf/smart-cv/edit/main/mywebcv-master
+   git clone https://github.com/DevHakimWolf/smart-cv/edit/main/mywebcv-master
